@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on:<br>- My first decentralized exchange (DEX) using the Solana Rust SDK<br>👯 I’m looking to collaborate on:<br>- Open-source blockchain projects<br>- Innovative decentralized finance (DeFi) applications that leverage Rust<br>🤝 I’m looking for help with:<br> - Architectural reviews and feedback on my code<br>🌱 I’m currently learning:<br>- Advanced Rust programming techniques<br>- Solana blockchain ecosystem<br>⚙️ Tech Stack & Dev Environment:<br>- Developed a custom SSH server for a secure, streamlined remote development environment<br>⚡ Fun fact:<br>- I’m passionate about leveraging decentralized technology to empower individuals, and I love exploring new ways to make finance more accessible!</p>
+<p align="left">🔭 I’m currently working on:<br>- My first decentralized exchange (DEX) using the Solana Rust SDK<br>👯 I’m looking to collaborate on:<br>- Open-source blockchain projects<br>- Innovative decentralized finance (DeFi) applications that leverage Rust<br>🤝 I’m looking for help with:<br> - Architectural reviews and feedback on my code<br>🌱 I’m currently learning:<br>- Advanced Rust programming techniques<br>- Solana blockchain ecosystem<br>⚙️ Tech Stack & Dev Environment:<br>- Developed a custom SSH server for a secure, streamlined remote development environment<br>⚡ Fun fact:<br>- I’m passionate about leveraging decentralized technology to empower individuals, and I love exploring new ways to future-proof finance!</p>
 
 ###
 
