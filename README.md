@@ -13,7 +13,7 @@
   <a href="https://leetcode.com/u/heckapack/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tutanota logo"  />
   </a>
-  <a href="https://x.com/TangetCipher" target="_blank">
+  <a href="https://x.com/TangentCipher" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://medium.com/@TangentCipher" target="_blank">
