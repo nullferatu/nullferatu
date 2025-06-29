@@ -29,7 +29,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">🔭 I’m currently working on:<br>- Buidling a Custom DAO with Substrate <br>🤝 I’m looking to collaborate on:<br>- Open-source blockchain projects<br>- Innovative DeFi applications that leverage Rust<br>🌱 I’m currently learning:<br>- Advanced Rust programming techniques<br> ⚡ Fun fact:<br>- I’m passionate about leveraging decentralized technology to empower individuals, and I love exploring new ways to future-proof finance!</p>
+<p align="left">🔭 I’m currently working on:<br>- Buidling a Perps Exchange on Polkadot <br>🤝 I’m looking to collaborate on:<br>- Open-source blockchain projects<br>- Innovative DeFi applications that leverage Rust<br>🌱 I’m currently learning:<br>- Advanced Rust programming techniques<br>- Substrate<br> ⚡ Fun fact:<br>- I’m passionate about leveraging decentralized technology to empower individuals, and I love exploring new ways to future-proof finance!</p>
 
 ###
 
@@ -48,7 +48,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
 </div>
 
 ###
