@@ -23,13 +23,13 @@
 
 ###
 
-<h1 align="center">Howdy there, I'm Jonathan 👋</h1>
+<h2 align="center">Howdy there, I'm Jonathan 👋</h2>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">🔭 I’m currently working on:<br>- Buidling a Perps Exchange Framework on Polkadot <br>🤝 I’m looking to collaborate on:<br>- Open-source blockchain projects<br>- Innovative DeFi applications that leverage Rust<br>🌱 I’m currently learning:<br>- Advanced Rust programming techniques<br>- Substrate<br> ⚡ Fun fact:<br>- I’m passionate about leveraging decentralized technology to empower individuals, and I love exploring new ways to future-proof finance!</p>
+<p align="left">🤝 I’m looking to collaborate on:<br>- Blockchain projects<br>- Innovative DeFi applications that leverage Rust<br>🌱 I’m currently learning:<br>- Advanced Rust programming techniques<br>- Substrate<br> ⚡ Fun fact:<br>- I’m passionate about leveraging decentralized technology to empower individuals!</p>
 
 ###
 
