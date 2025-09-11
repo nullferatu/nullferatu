@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://custom-doodle.com/wp-content/uploads/doodle/adventure-time-gunter-dancing-pixel/adventure-time-gunter-dancing-pixel-doodle.gif"  />
+  <img height="100" src="https://custom-doodle.com/wp-content/uploads/doodle/adventure-time-gunter-dancing-pixel/adventure-time-gunter-dancing-pixel-doodle.gif"  />
 </div>
 
 ###
