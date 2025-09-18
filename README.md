@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="center">Howdy there, I'm Jonathan 👋</h2>
+<h2 align="center">Howdy, I'm Jonathan 👋</h2>
 
 ###
 
